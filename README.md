@@ -93,3 +93,8 @@ Tos stop docker conatiner
 ```
 docker stop <container_id>
 ```
+
+install ipynb kernel
+'''
+pip install ipykernel
+'''
